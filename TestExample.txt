@@ -1,3 +1,6 @@
 Testing this text document on git bash.
 
 Just testing out some commands in this example.
+
+
+Testing this example so i can merge branches and commit to see what happens

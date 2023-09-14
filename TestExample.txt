@@ -1,3 +1,3 @@
-Testing this text document on git bash.
-
-Just testing out some commands in this example.
+This is an example that i have edit to make a different text line than the master branch.  
+Do you think this will work after i merge the 2 branches? 
+i hope this works for our react project sake hahaha
